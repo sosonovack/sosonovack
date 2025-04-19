@@ -47,7 +47,7 @@ Objetivos:
 
 Contato:
 
-- GitHub: [github.com/seuuseraqui](https://github.com/seuuseraqui)  
+- GitHub: [github.com/seuuseraqui](https://github.com/sosonovack)  
 - Email: **sofia.novack@email.com**
 
 ---
