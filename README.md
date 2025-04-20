@@ -12,12 +12,6 @@
 
 ---
 
-## Sobre
-
-Sou a Sofia, desenvolvedora full stack em formação, com paixão por tecnologia e construção de soluções inovadoras. Atualmente, estudo intensamente para me especializar em tecnologias front-end e back-end, criando projetos práticos que integram ambas as áreas.
-
----
-
 ## Estudando
 
 - Estrutura de dados e algoritmos  
@@ -32,7 +26,3 @@ Sou a Sofia, desenvolvedora full stack em formação, com paixão por tecnologia
 
 - Email: **sosonovack@email.com**  
 - LinkedIn: [sosonovack](https://www.linkedin.com/in/sosonovack)
-
----
-
-**“Foco no código. Foco no progresso.”**
