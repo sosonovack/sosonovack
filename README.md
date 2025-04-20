@@ -1,20 +1,24 @@
-# 👩‍💻 Sofia Novack
+## Oiii, eu sou a Sofia Novack, desenvolvedora full stack apaixonada por tecnologia!
 
-Desenvolvedora em formação com foco em front-end e back-end.  
-Atualmente estudando diariamente para entrar no mercado tech com projetos práticos, organizados e funcionais.
-
----
-
-Sobre:
-
-- Estudo desenvolvimento web com HTML, CSS, JavaScript, PHP, MySQL e Java  
-- Interesse em front-end interativo e back-end funcional  
-- Busco minha primeira oportunidade na área de tecnologia  
-- Gosto de entender como as coisas funcionam por trás e construir soluções com lógica e clareza
+<div style="display: inline_block"><br>
+  <img align="center" alt="Sofia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Sofia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Sofia-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Sofia-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Sofia-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Sofia-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Sofia-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
 
 ---
 
-Stack atual:
+## Sobre
+
+Sou a Sofia, desenvolvedora full stack em formação, com paixão por tecnologia e construção de soluções inovadoras. Atualmente, estudo intensamente para me especializar em tecnologias front-end e back-end, criando projetos práticos que integram ambas as áreas.
+
+---
+
+## Stack atual
 
 ![HTML](https://img.shields.io/badge/HTML-E44D26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-264de4?style=flat&logo=css3&logoColor=white)
@@ -26,7 +30,7 @@ Stack atual:
 
 ---
 
-Estudando:
+## Estudando
 
 - Estrutura de dados e algoritmos  
 - Versionamento com Git e GitHub  
@@ -36,7 +40,7 @@ Estudando:
 
 ---
 
-Objetivos:
+## Objetivos
 
 - [x] Iniciar um portfólio funcional  
 - [ ] Criar projetos completos com front + back  
@@ -45,10 +49,10 @@ Objetivos:
 
 ---
 
-Contato:
+## Contato
 
-- GitHub: [github.com/sosonovack](https://github.com/sosonovack)  
-- Email: **sofia.novack@email.com**
+- Email: **sosonovack@email.com**  
+- LinkedIn: [sosonovack](https://www.linkedin.com/in/sosonovack)
 
 ---
 
