@@ -25,4 +25,4 @@
 ## Contato
 
 - Email: **sosonovack@email.com**  
-- LinkedIn: [sosonovack](https://www.linkedin.com/in/sosonovack)
+- LinkedIn: [sosonovack](https://www.linkedin.com/in/sofianovack/)
